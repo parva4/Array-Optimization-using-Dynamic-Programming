@@ -1,5 +1,3 @@
-//Author-Parva Siddhartha Parikh
-
 #include<iostream>
 #include<algorithm>
 #include<array>
